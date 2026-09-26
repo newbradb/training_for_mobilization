@@ -7,7 +7,7 @@
 ## Електроніка
  
 ### Безкоштовні (легальні)
-- [ ] **NEETS** (Navy Electricity and Electronics Training Series): 24 модулі ВМС США, public domain. Від основ до напівпровідників, цифрової логіки та вимірювань.
+- [ ] **NEETS** (Navy Electricity and Electronics Training Series): 24 [модулі](https://www.microwaves101.com/encyclopedias/navy-electricity-and-electronics-series) ВМС США, public domain. Від основ до напівпровідників, цифрової логіки та вимірювань. Мої нотатки тут :
 - [ ] **Lessons in Electric Circuits** (Tony Kuphaldt): онлайн-підручник на allaboutcircuits.com.
 - [ ] **Modular Electronics Learning** (Kuphaldt): багато задач на пошук несправностей.
 - [ ] **NASA-STD-8739.3**: стандарт пайки. Показує, як виглядає правильне з'єднання, а як дефектне.
