@@ -18,3 +18,9 @@ produced by stroking a magnetic material from right to left with the south pole 
 - Q: What is the difference between the domain theory and Weber’s theory of magnetism?
 - Weber's theory says individual molecules turn to line up. Domain theory says whole regions of atoms (domains), magnetized by electron spin, grow and rotate to line up. Domain theory also explains why only certein materials can be magnetized.
 
+- Q: What is a magnetic line of force?
+- A: Imaginary line in magnetic fied that shows direction of force. 
+
+- Q: In what way do magnetic lines of force differ from electrostatic lines of force?
+- A: Electrostatic line of force has start and end. Magnetic line are in closed loops.  
+
