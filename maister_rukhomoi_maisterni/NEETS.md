@@ -27,3 +27,6 @@ produced by stroking a magnetic material from right to left with the south pole 
 - Q31. How should a delicate instrument be protected from a magnetic field? 
 - A: Surround instrument with a soft iron shield (magnetic shield); the magnetic lines of force pass through the iron instead of through instrument. 
 
+- Q32. How should bar magnets be stored?
+Store magnet bars in the pairs, oposite poles together, with soft iron keepers in  the ends. This provides closed, low relucatnce for the flux. So magnets keep their strength. 
+
