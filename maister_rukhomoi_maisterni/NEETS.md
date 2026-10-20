@@ -36,3 +36,5 @@ Store magnet bars in the pairs, oposite poles together, with soft iron keepers i
 
 - Energy contained by an object due its motion is called **kinetik energy**
 - Energy contained by an object due its position is called **potential energy**
+
+**Coul
