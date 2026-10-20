@@ -30,3 +30,9 @@ produced by stroking a magnetic material from right to left with the south pole 
 - Q32. How should bar magnets be stored?
 Store magnet bars in the pairs, oposite poles together, with soft iron keepers in  the ends. This provides closed, low relucatnce for the flux. So magnets keep their strength. 
 
+# Electrical Energy
+
+**Energy** is ability to do work. In order to do the work energy must be expended (converted from one form to another). 
+
+- Energy contained by an object due its motion is called **kinetik energy**
+- Energy contained by an object due its position is called **potential energy**
