@@ -24,3 +24,6 @@ produced by stroking a magnetic material from right to left with the south pole 
 - Q: In what way do magnetic lines of force differ from electrostatic lines of force?
 - A: Electrostatic line of force has start and end. Magnetic line are in closed loops.  
 
+- Q31. How should a delicate instrument be protected from a magnetic field? 
+- A: Surround instrument with a soft iron shield (magnetic shield); the magnetic lines of force pass through the iron instead of through instrument. 
+
